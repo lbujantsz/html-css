@@ -1,0 +1,20 @@
+table{
+    border-width: 5px;
+    border-color: pink;
+    border-style: dashed;
+
+    border-collapse: collapse;
+    text-align: right;
+    width: 100%;
+
+}
+th, td{
+    border-collapse: collapse;
+    height: 50px;
+    vertical-align: bottom;
+    horiz-align: center;
+    border-width: 5px;
+    border-color: pink;
+    border-style: dashed;
+
+}
