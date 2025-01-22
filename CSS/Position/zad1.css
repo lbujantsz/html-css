@@ -1,0 +1,23 @@
+.prvi{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+
+}
+.drugi{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+}
+
+.treci{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: relative;
+    bottom: 200px;
+}

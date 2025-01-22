@@ -1,0 +1,15 @@
+p{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+}
+.k1 {
+    outline-width: thick;
+    outline-style: double;
+    outline-color: red;
+}
+.k2 {
+    outline-width: 3px;
+    outline-style: double;
+    outline-color: green;
+}
