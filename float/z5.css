@@ -1,0 +1,21 @@
+div{
+    border: 3px solid cornflowerblue;
+    background-color: deepskyblue;
+    margin: 3px;
+}
+.d1{
+    width: 150px;
+    height: 150px;
+}
+.d2{
+    position: relative;
+    right: 153px;
+    width: 150px;
+    height: 150px;
+}
+.d3{
+    text-align: center;
+    clear: both;
+    height: 150px;
+    width: 300px;
+}

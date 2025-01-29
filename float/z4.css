@@ -1,0 +1,11 @@
+.klasa1{
+    clear: right;
+    border: 5px solid red;
+    width: 200px;
+    height: 200px;
+}
+.klasa2{
+    border: 5px solid blue;
+    width: 200px;
+    height: 200px;
+}
